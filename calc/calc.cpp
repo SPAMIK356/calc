@@ -21,6 +21,7 @@ int main()
     case '*':
         break;
     case '/':
+        result = a / b;
         break;
     default:
         goto wrong;
