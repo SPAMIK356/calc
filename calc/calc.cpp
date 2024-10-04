@@ -15,6 +15,7 @@ int main()
     switch (input)
     {
     case '+':
+        result = a + b;
         break;
     case '-':
         break;
